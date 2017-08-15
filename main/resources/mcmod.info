@@ -1,0 +1,16 @@
+[
+{
+  "modid": "AdvEngBio",
+  "name": "Advances in Engineering and Biology",
+  "description": "BLANK",
+  "version": "${0.1-alpha}",
+  "mcversion": "${1.12.0}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["AlphaTrooperY"],
+  "credits": "The Forge team for making the backbone for this mod.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
